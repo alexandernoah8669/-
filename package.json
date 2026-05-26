@@ -1,0 +1,16 @@
+{
+  "name": "xhs-animated-template",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "gsap": "^3.13.0",
+    "html-to-image": "^1.11.13",
+    "vite": "^7.2.4"
+  }
+}
